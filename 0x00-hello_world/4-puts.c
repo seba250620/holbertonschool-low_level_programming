@@ -2,6 +2,7 @@
 
 /**
  * main - muestra el texto indicado
+ * return - muestra el 0 correctamente
  */
 int main(void)
 {
