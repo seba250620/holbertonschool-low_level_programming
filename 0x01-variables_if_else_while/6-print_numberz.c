@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - imprime todo los numero de un solo digito en base 10 a partir de 0,seguido de una nueva linea
+ * main - imprime todo los numero de un solo digito en base 10 a partir de 0
+ * ,seguido de una nueva linea
  * solo puedo usar putchar
  * Return: siempre muestra 0
  */
