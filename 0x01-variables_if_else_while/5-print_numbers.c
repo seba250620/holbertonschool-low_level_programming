@@ -3,6 +3,7 @@
 /**
  * main - imprime todos los numeros de un solo digito de la base
  * 10 a partir de 0, seguido de una linea nueva
+ * Return: siempre muestra 0
  */
 int main(void)
 {
